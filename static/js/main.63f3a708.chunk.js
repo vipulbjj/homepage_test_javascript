@@ -96,7 +96,7 @@
                         className: "banner-text"
                     }, l.a.createElement("h1", {
                         className: "responsive-headline"
-                    }, "Anirudh Anil Ojha."), l.a.createElement("h3", null, l.a.createElement(E.a, {
+                    }, "Vipul Bajaj."), l.a.createElement("h3", null, l.a.createElement(E.a, {
                         strings: ["Happiness is not enough for me. I demand euphoria!", "Better remain silent and be thought stupid than speak and remove all doubt.", "Wubba lubba dub dub!", "Bears. Beets. Battlestar Galactica.", "Sometimes I'll start a sentence and I don't even know where it's"],
                         typeSpeed: 30,
                         shuffle: !0,
