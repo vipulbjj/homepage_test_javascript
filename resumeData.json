@@ -31,11 +31,11 @@
         "url":"www.linkedin.com/in/vipulbjj",
         "className":"fa fa-linkedin"
       },
-      // {
-      //   "name":"instagram",
-      //   "url":"https://www.instagram.com/anirudhanilojha/",
-      //   "className":"fa fa-instagram"
-      // },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/anirudhanilojha/",
+        "className":"fa fa-instagram"
+      },
       {
         "name":"github",
         "url":"http://github.com/vipulbjj",
