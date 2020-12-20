@@ -1,49 +1,49 @@
 {
   "main": {
-    "name":"Anirudh Anil Ojha",
-    "occupation":"programmer",
+    "name":"Vipul Bajaj",
+    "occupation":"Research Engineer(Programmer)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Welcome to my humble website and thank you for your interest. I'm a 20-y/o biding my time in Kanpur before I come out and dominate the world :)",
-    "email": "anirudh.anil.ojha@gmail.com",
-    "phone": "+91-XXXXXXXXXX",
+    "bio":"Welcome to my homepage. I'm a 22-y/o biding my time in Kanpur before I come out and dominate the world :)",
+    "email": "vbajaj56@gmail.com",
+    "phone": "+91-9643487886",
     "address":{
-      "street":"Room 250, Sexy Sexy Hall-3",
-      "city":"Kanpur",
-      "state":"Uttar Pradesh",
-      "zip": "208016"
+      "street":"#710, Sector 20, Huda Colony",
+      "city":"Sirsa",
+      "state":"Haryana",
+      "zip": "125055"
     },
-    "website": "http://www.pornhub.com",
+    "website": "http://www.google.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/ojha.anirudhanil",
+        "url":"https://www.facebook.com/vipul.bajaj.77/",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/vbajaj56",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"www.linkedin.com/in/aniojha",
+        "url":"www.linkedin.com/in/vipulbjj",
         "className":"fa fa-linkedin"
       },
-      {
-        "name":"instagram",
-        "url":"https://www.instagram.com/anirudhanilojha/",
-        "className":"fa fa-instagram"
-      },
+      // {
+      //   "name":"instagram",
+      //   "url":"https://www.instagram.com/anirudhanilojha/",
+      //   "className":"fa fa-instagram"
+      // },
       {
         "name":"github",
-        "url":"http://github.com/aniojha",
+        "url":"http://github.com/vipulbjj",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"http://skype.com/vbajaj56",
         "className":"fa fa-skype"
       }
     ]
