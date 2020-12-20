@@ -96,7 +96,8 @@
                         className: "banner-text"
                     }, l.a.createElement("h1", {
                         className: "responsive-headline"
-                    }, "Vipul Bajaj."), l.a.createElement("h3", null, l.a.createElement(E.a, {
+                    }, "Vipul Bajaj."), 
+                    l.a.createElement("h3", null, l.a.createElement(E.a, {
                         strings: ["Happiness is not enough for me. I demand euphoria!", "Better remain silent and be thought stupid than speak and remove all doubt.", "Wubba lubba dub dub!", "Bears. Beets. Battlestar Galactica.", "Sometimes I'll start a sentence and I don't even know where it's"],
                         typeSpeed: 30,
                         shuffle: !0,
@@ -141,7 +142,7 @@
                         className: "social-links"
                     }, e), l.a.createElement("ul", {
                         className: "copyright"
-                    }, l.a.createElement("li", null, "\xa9 Copyright 2019 Anirudh Anil Ojha"), l.a.createElement("li", null, "Design by ", l.a.createElement("a", {
+                    }, l.a.createElement("li", null, "\xa9 Copyright 2020 Vipul Bajaj"), l.a.createElement("li", null, "Design by ", l.a.createElement("a", {
                         title: "Styleshout",
                         href: "http://www.styleshout.com/"
                     }, "Styleshout")))), l.a.createElement("div", {
@@ -186,7 +187,7 @@
                     }, l.a.createElement("img", {
                         className: "profile-pic",
                         src: "images/profilepic.jpg",
-                        alt: "Anirudh's Profile Pic"
+                        alt: "Vipul's Profile Pic"
                     })), l.a.createElement("div", {
                         className: "nine columns main-col"
                     }, l.a.createElement("h2", {
@@ -194,7 +195,9 @@
                             display: "flex",
                             justifyContent: "center"
                         }
-                    }, "About Me"), l.a.createElement("p", null, "Welcome to my humble website and thank you for your interest. I'm a 20-y/o biding my time in Kanpur before I come out and dominate the world :)", l.a.createElement("br", null), "I have a deep appreciation for everything beautiful humans did and can create, with a special eye for literature, poetry, puns and stick figures. Do let me know if there is something cool you would like to share with me.", l.a.createElement("br", null), "I am that sporty kid who can't wait till it's 5 PM and time to go out and play. I love lawn tennis (Federer >>> everyone else), but would play just about everything except carrom which I maintain is an abomination of a game. Also, my knowledge of absolutely useless cricketing trivia is unbeatable and it'll take the rest of my life to forget it.", l.a.createElement("br", null), "I am enthusiastic about technology and am exploring machine learning and its applications in vision and language tasks. In my fun time I like to debate, watch ", l.a.createElement("a", {
+                    }, "About Me"), l.a.createElement("p", null, "Welcome to my homepage and thank you for your interest. I'm a 22-y/o spending my time appreciating science and using it to solve world's biggest problems :)", l.a.createElement("br", null), "I have recently graduated from IIT Kanpur with a Double Major in Computer Science and Engineering and Electrical Engineering. My interests lies in Artificial Intelligence, at the intersection of Computer Vision, Machine Learning and Robotics. I am a part of <a href=\"http://deltalab.iitk.ac.in/\">Delta Research Lab </a> ,advised by Prof.Vinay P Namboodiri. I've also worked with Prof. Preethi Jyothi, Prof. Bryan Hooi and Prof. Harish Karnick on some really exciting research projects.
+
+                    ", l.a.createElement("br", null), "I am that sporty kid who can't wait till it's 5 PM and time to go out and play. I love lawn tennis (Federer >>> everyone else), but would play just about everything except carrom which I maintain is an abomination of a game. Also, my knowledge of absolutely useless cricketing trivia is unbeatable and it'll take the rest of my life to forget it.", l.a.createElement("br", null), "I am enthusiastic about technology and am exploring machine learning and its applications in vision and language tasks. In my fun time I like to debate, watch ", l.a.createElement("a", {
                         style: {
                             color: "green"
                         },
